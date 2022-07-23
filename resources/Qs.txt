@@ -1,0 +1,600 @@
+Hva blir resultateffekten av et innkjøp på kreditt av en kontorstol for kr 10 000 i en vanlig avgiftspliktig virksomhet? Legg til grunn at bedriften ikke registrerer dette som et varig driftsmiddel.
+Innkjøpsverdien er inkl. mva. Bedriftens kostnad er uten mva., dvs. kr 10 000/1,25 = kr 8000. Merk at vi her ikke balansefører (aktiverer) og avskriver anleggsmiddelet. Dette er angitt i teksten.
+Resultatet påvirkes negativt med kr 8000
+Resultatet påvirkes positivt med kr 10 000
+Resultatet påvirkes negativt med kr 12 500
+Det blir ingen resultateffekt
+En bedrift har per 31.12. kr 15 000 000 i omløpsmidler, kr 10 000 000 i kortsiktig gjeld, kr 14 000 000 i langsiktig gjeld og kr 8 000 000 i egenkapital. Hva er beløpet for bedriftens anleggsmidler?
+Annleggsmidler + omløpsmidler = gjeld + egenkapital
+kr 17 000 000
+kr 14 000 000
+kr 22 000 000
+kr 25 000 000
+En bedrifts regnskap viser følgende: Langsiktig gjeld var ved årets begynnelse kr 3 000 000. Ved årets slutt var langsiktig gjeld på kr 4 500 000. Det ble betalt kr 350 000 i renter, og kr 1 200 000 i avdrag. Hvor mye tok bedriften opp i nye lån dette året?
+UB langsiktig gjeld = IB langsiktig gjeld + nye lån – avdrag \nkr 4 500 000 = kr 3 000 000 + x – kr 1 200 000 \nx = kr 4 500 000 – kr 3 000 000 + kr 1 200 000 \nx = kr 2 700 000. Opplysningen om renter er kun støy i oppgaven.\n
+kr 2 700 000 
+kr 2 000 000
+kr 1 500 000
+kr 3 300 000
+En bedrift hadde i løpet av året innbetalinger på kr 4 000 000 eks. mva., kundefordringer ved årets begynnelse på kr 200 000, og kundefordringer ved årets slutt på kr 300 000. I tillegg økte leverandørgjelden med kr 400 000 og varelageret ble redusert med kr 200 000. Varekjøpet var kr 1 200 000. Hva ble bokført som årets inntekter? 
+Inntekter = (innbetalinger inkl. mva. – IB kundefordringer + UB kundefordringer)/1,25 = [(kr 4 000 000 x 1,25) – kr 200 000 + kr 300 000] /1,25 = kr 4 080 000. Opplysningen om leverandørgjeld og varelager er kun støy i oppgaven.  
+kr 4 080 000
+kr 5 000 000
+kr 5 100 000
+kr 5 500 000
+En bedrift har i løpet av en periode utbetalt kr 900 000 i lønn til ansatte. Skyldig lønn var ved periodens begynnelse kr 15 000. Skyldig lønn var ved periodens slutt kr 20 000. Forskuddsbetalt lønn var ved periodens begynnelse kr 5000 og forskuddsbetalt lønn var ved periodens slutt kr 25 000. Hva er periodens lønnskostnad?
+Periodens lønnskostnad = Lønnsutbetaling – skyldig lønn ved periodens begynnelse + skyldig lønn ved periodens slutt + forskuddsbetalt lønn ved periodens begynnelse – forskuddsbetalt lønn ved periodens slutt. \nPeriodens lønnskostnad = kr 900 000 – kr 15 000 + kr 20 000 + 5000 – kr 25 000 = 885 000
+kr 885 000
+kr 800 000 
+kr 835 000
+kr 765 000
+Economia AS solgte i desember 2015 varer for kr 125.000 inkl. MVA med en bruttofortjeneste på 60 %. Varetellingen ved utløpet av året viste en beholdningsreduksjon for måneden på kr 30.000. Hvor stort var varekjøpet inkl. MVA i desember?
+Solgte varers kostpris: 125.000 / 1,25 × (1 - 60 %) = 40.000\nVarekjøp = Varekostnad – Beholdningsreduksjon\nVarekjøp = 40.000 – 30.000\nVarekjøp inkl. MVA = 10.000 × 1,25 = 12.500
+12500
+15000
+10000
+11500
+Hva menes vanligvis med uttrykket «stordriftsfordeler»?
+Stordriftsfordeler handler om kapasitetsutnyttelse, og vil kunne relatere seg til reduserte variable enhetskostnader eller reduserte faste enhetskostnader. I denne oppgaven er det kun sistnevnte som er relevant. Faste kostnader er kostnader som det er vanskelig å endre innen en gitt tidshorisont eller produksjonskapasitet. Maksimal utnyttelse av produksjonskapasiteten kan da sies å innebære stordriftsfordeler.
+Faste kostnader fordeles på flere enheter og enhetskostnadene synker.
+Faste enhetskostnader er konstante uansett volum.
+Variable kostnader reduseres når volumet øker.
+Variable kostnader reduseres når volumet synker.
+Det skal gjøres et investeringsvalg mellom tre gjensidig utelukkende alternativer. Alternativene er like bortsett fra resultatene. \nInvestering 1 gir et resultat på kr 1 000 000\nInvestering 2 gir et resultat på kr 2 000 000\nInvestering 3 gir et resultat på kr 3 000 000\nHva er alternativkostnaden for Investering 2?
+Alternativkostnaden er resultatet som det beste alternativet gir. Velges Investering 2, er det beste alternativet som ofres, Investering 3.
+kr 3 000 000
+kr 1 000 000
+kr 2 000 000
+kr 4 000 000
+Det skal gjøres et investeringsvalg mellom tre gjensidig utelukkende alternativer. Alternativene er like bortsett fra resultatene.\nInvestering 1 gir et resultat på kr 1 000 000\nInvestering 2 gir et resultat på kr 2 000 000\nInvestering 3 gir et resultat på kr 3 000 000\nHva er beslutningsrelevant kostnad for Investering 2?
+Beslutningsrelevant kostnad er differansen mellom det aktuelle alternativet og beste alternativ, dvs. differansen mellom Investering 2 og Investering 3, nemlig kr 3 000 000 – kr 2 000 000 = kr 1 000 000.
+kr 1 000 000
+kr 2 000 000
+-kr 1 000 000
+kr 5 000 000
+Hva menes med avskrivninger?
+Ikke-planlagt verdifall refererer til nedskrivninger. Avskrivninger er kalkulatoriske kostnader og følgelig ikke betalbare. Avskrivningene er også planlagte for en tidshorisont, og det gjøres ikke spesielle løpende vurderinger.
+Ikke-betalbare periodekostnader for et anleggsmiddel basert på planlagt systematisert verdifall over eiendelens økonomiske levetid.
+Systematisk verdifall basert på løpende vurdering av anleggsmiddelets verdi.
+Ikke-planlagt verdifall for et anleggsmiddel.
+Planlagt systematiserte betalbare kostnader for et anleggsmiddel over den økonomiske levetiden.
+
+Den generelle kostnadsfunksjonen kan uttrykkes som K(x) = VEK × solgt mengde + FK. Her er det indikert at råvarer og arbeidskraft er per enhet og logisk sett er dette variable kostnader. Det spørres om kostnader, og følgelig er salgsprisen irrelevant. Det er rimelig å anta at husleie for de to lokalene er faste, ditto med avskrivninger og markedsføring. Det er ingen grunn til å gjøre et skille mellom husleiene, da det bør fremgå at det handler om totale kostnader og ikke for en spesifikk del av produksjonen. Diverse kostnader er eksplisitt angitt å være faste.
+K(x) = 500x + 75 000
+K(x) = 300x + 30 000
+K(x) = 300x + 60 000
+K(x) = 500x + 60 000
+En bedrift hadde innbetalinger på kr 4 000 000 ekskl. mva., kundefordringer ved årets begynnelse på kr 200 000, og kundefordringer ved årets slutt på kr 400 000. I tillegg økte leverandørgjelden med kr 600 000 og varelageret ble redusert med kr 300 000. Varekjøpet var kr 1 500 000. Hva ble bokført som årets inntekter?  
+Inntekter = (innbetalinger inkl. mva. – IB kundefordringer + UB kundefordringer)/1,25 \nInntekter = (kr 4 000 000 × 1,25 – kr 200 000 + kr 400 000)/1,25 \nInntekter = kr 4 160 000
+4 160 000
+4 360 000
+4 600 000
+4 900 000
+En annuitet i sammenheng med finansiering av et prosjekt betyr at én betaler …
+Se lærebok. Et annuitetslån innebærer at man betaler samme beløp i hver periode. I starten av lånet er mesteparten renter, i slutten av lånet er mesteparten av dette beløpet avdrag.
+…det samme beløpet hver periode forutsatt samme rentesats, og består av både rente og avdrag til et annuitetslån.   
+…det samme beløpet hver periode forutsatt samme rentesats, og består av kun avdragsbetalingen til et annuitetslån.
+…det varierende beløp fra periode til periode forutsatt samme rentesats, og består av kun avdragsbetalingen til et annuitetslån.
+…det varierende beløp fra periode til periode forutsatt samme rentesats, og består av kun rentebetalingen til et annuitetslån.
+Hvilken påstand er mest korrekt:
+Det vil være en rekke beslutningsirrelevante kostnader som ikke er sunk cost. Dette er kostnader som påløper fremover, men som er identiske for alternativene. Sunk cost er ingen alternativkostnad, men vil kunne ha en alternativkostnad: Også denne typen kostnader vil kunne være basert på ulike valgalternativer: Skal en markedsundersøkelse gjennomføres som fokusgruppeintervju eller survey for eksempel. 
+Sunk cost er alltid beslutningsirrelevant, men ikke alle beslutningsirrelevante kostnader er sunk cost.
+Sunk cost har ingen alternativkostnad.
+Sunk cost er en beslutningsrelevant kostnad.
+Alle beslutningsirrelevante kostnader er sunk cost.
+Beslutningskriteriet ved full kapasitet når det foreligger én flaskehals (knapp faktor) er:
+Beslutningskriteriet når det foreligger én flaskehals er størst dekningsbidrag per knapp faktor.
+Størst dekningsbidrag per knapp faktor
+Størst fortjeneste per knapp faktor
+Størst dekningsgrad og dekningsbidrag i kroner
+Størst fortjenesteprosent og fortjeneste i kroner
+En bedrift har følgende inntektsfunksjon: I(x) = 1000x. Kostnadsfunksjonen for det relevante kapasitetsintervall er K(x) = 400x + 1 200 000. Sikkerhetsgraden er i en normalperiode 20 %. Følgende påstand er økonomisk sett mest korrekt:
+Her må vi først fortolke de to funksjonene. I(x) angir en pris per enhet på kr 1000, mens K(x) 400x + 1 200 000 angir VEK = kr 400 og FK = kr 1 200 000. I og med at sikkerhetsgraden er avledet av nullpunktsomsetningen, må vi deretter finne nullpunkt f.eks. i antall enheter: NPOAntall enheter = Faste kostnader/Dekningsbidrag per enhet = kr 1 200 000/(kr 1000 – kr 400) = 2000 enheter Þ NullpunktKroner = kr 1000 × 2000 enheter = kr 2 000 000. Alternativt direkte: NullpunktKroner = FK/DG = kr 1 200 000/0,6 = kr 2 000 000. Med sikkerhetsgrad på 20 % blir omsetningen i en normalperiode: kr 2 000 000/(1 – 0,2) = kr 2 500 000. Alternativ A er beregnet som antall enheter i nullpunkt × pris per enhet, Alternativ B er beregnet som nullpunkt × (1 + sikkerhetsgraden). Dette er en utbredt feil mange gjør i ulike sammenhenger hvor prosenter beregnes.
+Omsetningen i en normalperiode er kr 2 500 000
+Omsetningen i en normalperiode lar seg ikke beregne basert på disse opplysningene.
+Omsetningen i en normalperiode er kr 2 000 000
+Omsetningen i en normalperiode er kr 2 400 000
+
+Den generelle beslutningsregelen for spesialordrer er DBOrdre > 0. Dette betinger imidlertid at man har ledig kapasitet og at det ikke er noen ringvirkninger mot konkurrenter, kunder eller produkter. Har man ledig kapasitet vil faste kostnader være irrelevante.
+Takke «ja» i og med at ordren gir et positivt dekningsbidrag på kr 2,50 per enhet, men kun dersom man har ledig kapasitet.
+Takke «nei» i og med at ordren gir en negativ fortjeneste på kr 2,50 per enhet.
+Takke «nei» i og med at den normale prisen er kr 75.
+Takke «ja» i og med at ordren gir et positivt dekningsbidrag på kr 2,50 per enhet.
+For gjensidig utelukkende prosjekter med ulik levetid, som kan gjentas, så …
+Rett svar er at vi bør vi alltid velge prosjektet med høyest overskuddsannuitet. \nFor å ta høyde for levetiden, beregnes overskuddsannuiteten av nåverdien.
+bør vi alltid velge prosjektet med høyest overskuddsannuitet.
+bør vi alltid velge prosjektet med korteste tilbakebetalingstid.
+bør vi alltid velge prosjektet med størst internrente.
+bør vi alltid velge prosjektet med høyest nåverdi.
+Den generelle beslutningsregelen ved bruk av internrentemetoden er:
+Generelt skal internrenten være større enn avkastningskravet. Internrenten tilsvarer også det avkastningskrav som gir nåverdi lik null.
+Å godta alle uavhengige prosjekter med internrente større enn avkastningskravet. Prosjektets internrente tilsvarer da et avkastningskrav som gir nåverdi lik null. 
+Å godta alle uavhengige prosjekter med internrente større enn null prosent. Prosjektets internrente tilsvarer da et avkastningskrav som gir en positiv nåverdi.
+Å godta alle uavhengige prosjekter med internrente større enn null prosent. Prosjektets internrente tilsvarer da et avkastningskrav som gir nåverdi lik null. 
+Å godta alle uavhengige prosjekter med internrente større enn avkastningskravet. Prosjektets internrente tilsvarer da et avkastningskrav som gir en negativ nåverdi.
+Gustav Globetrotter planlegger å begynne et toårs MBA-studium i utlandet om akkurat fem år. Han estimerer det totale budsjettet for de to årene til å tilsvare EUR 25 000, og ønsker å ha det fulle beløpet tilgjengelig allerede i begynnelsen av studiene sine. Han har EUR 10 000 tilgjengelig nå. I tillegg kan han, fra og med begynnelsen av neste år, sette til side EUR 3000 i sparepenger på starten av hvert år før studiet begynner. Dersom rentesatsen for risikofri sparing er 4 % p.a., er Gustav sine oppsparte midler tilstrekkelig?
+
+Ja, fordi han har ca. EUR 400 mer enn behovet.
+Ja, fordi han har akkurat EUR 25 000 tilgjengelig ved studiestart.
+Nei, fordi han har EUR 1750 mindre enn behovet.
+Ja, fordi han har ca. EUR 950 mer enn behovet.
+Ett anleggsmiddel anskaffes for kr 170 000. Det skal etter planen skiftes ut etter 4 år. Da er restverdien kr 20 000. Hva er bokført verdi etter 2 år dersom man bruker lineære avskrivninger? Se bort fra merverdiavgift.
+
+kr 95 000
+kr 37 500
+kr 75 000
+kr 85 000
+Med “sunk cost” menes:
+Rett svar er «Kostnader som er pådratt og som ikke kan unngås». Se lærebok.
+Kostnader som er pådratt og som ikke kan unngås
+Faste kostnader
+Kostnader som ikke kan fordeles til kostnadsobjekter basert på et klart årsak/virkningsforhold.
+Særkostnader for et bestemt beslutningsalternativ
+
+
+kr 140 000
+kr 170 000
+kr 200 000
+kr 110 000 
+
+
+B – C – G
+A – B – C – G
+A – D – E
+A – B – C – F
+Economia AS ble etablert i år. De har ved årets slutt eiendeler for kr 10 000 000 og gjeld for kr 8 000 000. De solgte 30 000 enheter av sitt eneste produkt. Dekningsgraden var 40 %, og variable enhetskostnader kr 75. Bedriften hadde ikke faste kostnader. Skatten er 22 %. Se bort fra merverdiavgift. Hva er beløpet for henholdsvis innskutt egenkapital og opptjent egenkapital dette første driftsåret?
+Rett svar er 1 170 000 i opptjent egenkapital og 830 000 i innskutt egenkapital: Sum egenkapital må være kr 2 000 000 for at regnskapet skal balansere. I og med at dette er selskapets første driftsår, vil årets resultat være lik opptjent egenkapital: \nNår DG = 40 %, og VEK = kr 75, vil prisen være kr 75/(1-0,4) = kr 125. Totalt dekningsbidrag er (kr 125 – kr 75) × 30 000 enheter = kr 1 500 000. Etter skatt blir resultatet, altså opptjent egenkapital, kr 1 500 000 × (1 – 0,22) = kr 1 170 000. Dermed blir innskutt egenkapital kr 2 000 000 – kr 1 170 000 = kr 830 000.
+kr 1 170 000 i opptjent egenkapital og kr 830 000 i innskutt egenkapital
+kr 1 500 000 i opptjent egenkapital og kr 500 000 i innskutt egenkapital
+kr 1 970 000 i opptjent egenkapital og kr 30 000 i innskutt egenkapital
+-kr 632 500 i opptjent egenkapital og kr 2 632 500 i innskutt egenkapital
+Nedbetaling av et lån for husholdningene fører isolert sett til at:
+Se lærebok.
+økt sparing
+BNP stiger
+privat forbruk øker
+privat disponibel inntekt  øker
+Med resesjon menes:
+Se lærebok.
+BNP faller minst 2 kvartaler etter hverandre 
+langvarig periode med uendret BNP
+BNP faller mer enn 4 kvartaler etter hverandre 
+ingen av alternativene ovenfor
+Med den strukturelle budsjettbalansen menes: 
+Se lærebok.
+Verdien på budsjettbalansen når Y=Ypot 
+Verdien på handelsbalansen når Y=Ypot 
+Verdien på handelsbalasen når Y ikke er lik Ypot
+Verdien på budsjettbalansen når Y=Ymax
+Dersom den marginal importraten er 0,3, den marginal inntektsskatten 0 og den marginal konsumraten 0,8, så er multiplikatoren:
+m = 1/(1-0.8(1-0)+0.3) = 2
+2
+1,25
+1,5
+1,75
+Teorien om komparativ fortrinn handler om:
+Se lærebok.
+Å utnytte det man er relativ best i mtp handelen med andre land
+Å utnytte stordriftsfordeler i handelen med andre land
+Å satse på sektorer der kostnadene er lavest med andre land
+Konkurranseevnen der en er avhengig av å være kostnadsbevisst 
+Offentlig budsjettbalanse viser: 
+Se lærebok.
+Differansen mellom nettoskatt og offentlig etterspørsel
+Nivået på nettoskatten
+Bruttoskatt minus offentlig etterspørsel
+Nivået på BNP som sikrer at budsjettbalansen går i null 
+Med offentlig etterspørsel menes: 
+Se lærebok.
+Offentlig kjøp av varer og tjenester
+Offentlig konsum
+Offentlig overføringer
+Summen av offentlige overføringer og offentlig etterspørsel
+Med høykonjunktur menes: 
+Se lærebok.
+BNP ligger over trendutviklingen 
+Økonomien avkjøles 
+Innhenting av økonomien
+BNP stiger mer enn trendutviklingen
+Direkte investeringer i utlandet blir registrert
+Se lærebok.
+I finansregnskapet
+I driftsregnskapet
+Som eksport
+Som renteinntekter fra utlandet
+En økning i offentlig realinvestering fører til i modell 1 at:
+Se lærebok.
+privat konsum går opp 
+privat konsum går ned
+privat konsum er uendret
+privat realinvestering går ned 
+En økning i inntektsskattesatsen i modell 1 (i læreboken) fører til at budsjettbalansen... 
+Se lærebok.
+går opp 
+går  ned 
+blir negativ
+ingen av alternativene ovenfor
+Keynesiansk arbeidsledighet er det samme som: 
+Se lærebok.
+Konjukturledighet
+Frivillig arbeidsledighet
+Naturlig arbeidsledighet
+Likevektsledighet
+Naturlig arbeidsledighet er lik...
+Se lærebok.
+Summen av friksjonsledighet og strukturledighet
+strukturledighet
+friksjonsledighet
+frivillig ledighet
+Hvilket utsagn er mest rett med utgangspunkt i modell 1?: 
+Se lærebok.
+Høyere skatt fører til forbedret handelsbalanse
+Høyere skatt fører til økt offentlig konsum 
+Høyere skatt fører til redusert offentlig forbruk
+Høyere skatt fører til forverret handelsbalanse
+Pengemengden i samfunnet stiger når:
+Se lærebok.
+Norges Bank kjøper valuta
+Norges Bank selger valuta
+Norges Bank selger statsobligasjoner
+Norges Bank øker styringsrenta
+Når renta går ned, vil kursen på obligasjoner:
+Se lærebok.
+Stige
+Gå ned
+Være uendret
+Umulig å svare på
+Markedsrenta vil vanligvis:
+Se lærebok.
+Ligge mellom foliorenta og døgnlånsrenta til Norges Bank
+Være lik Norges Banks styringsrente
+Ligger under Norges Banks styringsrente
+Være lik inflasjonsraten
+Hvis inflasjonen i utlandet stiger, vil det ifølge kjøpekraftsparitetsteorien føre til at:
+Se lærebok.
+Valutakursen går ned
+Valutakursen stiger
+Inflasjonen i Norge går opp
+Styringsrenta går ned
+Hvis vi har frie valuta- og kapitalbevegelser, kan vi ha:
+Se lærebok.
+Flytende valutakurs og selvstendig pengepolitikk
+Fast/stabil valutakurspolitikk og selvstendig pengepolitikk
+Flytende valutakurs og låst pengepolitikk
+Fast valutakurs
+Hvis renta i utlandet stiger og spotkursen er uendret, vil terminkursen på norske kroner:
+Se lærebok.
+Stige
+Være uendret
+Gå ned
+Umulig å svare på (Godtas også som riktig)
+Følgende er et eksempel på ekspansiv finanspolitikk
+Se lærebok.
+Økte offentlige overføringer
+Økte utlån fra Norges Bank
+Økte skatter
+Nedsettelse av renta
+Disponibel inntekt er lik:
+Se lærebok.
+NNP pluss rente- og stønadsbalansen ovenfor utlandet
+BNP
+NNP pluss formuesinntekt
+NNP pluss stønader
+Høyere avkastning på IKEA’s investeringer i Norge fører til at:
+Se lærebok.
+Rentebalansen svekkes
+BNP går ned
+Handelsbalansen svekkes
+Stønadsbalansen svekkes
+En økt etterspørsel etter produkter fra følgende sektor vil ikke føre til at BNP stiger:
+Se lærebok.
+Import
+Offentlig sektor
+Privat forbruk
+Eksport 
+En økning i renta i modell 1 vil føre til at:
+Se lærebok.
+BNP faller
+BNP stiger
+BNP uendret
+Budsjettbalansen er uendret 
+Gå utfra at følgende modell gjelder for realøkonomien i et land:\nY = Cp + Ip + G + NX\nCp = 0.8(Y-T) + 200\nIp = 1000 -100i\nIM = 0.3Y\nT = 0.375Y +T0\nX0=1000, G = 1500, T0 = 0, i = 5.0\nDer Y: BNP, Cp: Privat forbruk, Ip: Privat brutto realinvestering, T: Netto skatt, i: rente, IM: Import, G: Offentlig etterspørsel, NX: Nettoeksport, X0: Eksport.\nHva blir likevektsløsningen for BNP?
+Insatt (1)-(6) modell lærebok gir Y=4000.
+4000
+3900
+4150
+4100
+Gå utfra at følgende modell gjelder for realøkonomien i et land:\nY = Cp + Ip + G + NX\nCp = 0.8(Y-T) + 200\nIp = 1000 -100i\nIM = 0.3Y\nT = 0.375Y +T0\nX0=1000, G = 1500, T0 = 0, i = 5.0\nDer Y: BNP, Cp: Privat forbruk, Ip: Privat brutto realinvestering, T: Netto skatt, i: rente, IM: Import, G: Offentlig etterspørsel, NX: Nettoeksport, X0: Eksport.\nHva blir handelsbalansen?
+Insatt (1)-(6) modell lærebok gir NX=-200.
+-200
++200
+0
+1000
+Gå utfra at følgende modell gjelder for realøkonomien i et land:\nY = Cp + Ip + G + NX\nCp = 0.8(Y-T) + 200\nIp = 1000 -100i\nIM = 0.3Y\nT = 0.375Y +T0\nX0=1000, G = 1500, T0 = 0, i = 5.0\nDer Y: BNP, Cp: Privat forbruk, Ip: Privat brutto realinvestering, T: Netto skatt, i: rente, IM: Import, G: Offentlig etterspørsel, NX: Nettoeksport, X0: Eksport.\nHva er privat forbruk?
+Insatt (1)-(6) modell lærebok gir Cp=2200
+2200
+2000
+1800
+2100
+Gå utfra at følgende modell gjelder for realøkonomien i et land:\nY = Cp + Ip + G + NX\nCp = 0.8(Y-T) + 200\nIp = 1000 -100i\nIM = 0.3Y\nT = 0.375Y +T0\nX0=1000, G = 1500, T0 = 0, i = 5.0\nDer Y: BNP, Cp: Privat forbruk, Ip: Privat brutto realinvestering, T: Netto skatt, i: rente, IM: Import, G: Offentlig etterspørsel, NX: Nettoeksport, X0: Eksport.\nAnta at potensiell BNP er 4150. Hva blir arbeidsledigheten?
+(4150-4000)/4150 = 3.61%
+3.61%
+2.33%
+4.15%
+3.10%
+Gå utfra at følgende modell gjelder for realøkonomien i et land:\nY = Cp + Ip + G + NX\nCp = 0.8(Y-T) + 200\nIp = 1000 -100i\nIM = 0.3Y\nT = 0.375Y +T0\nX0=1000, G = 1500, T0 = 0, i = 5.0\nDer Y: BNP, Cp: Privat forbruk, Ip: Privat brutto realinvestering, T: Netto skatt, i: rente, IM: Import, G: Offentlig etterspørsel, NX: Nettoeksport, X0: Eksport.\nHva blir multiplikatoren?
+m  = 1  / (1-0.8(1-0.375)+0.3) = 1.25
+1.25
+1.75
+1.50
+0.90
+I 2019 hadde en produksjonsbedrift en omsetning på kr 8 400 000 for 120 000 solgte enheter. Direkte variable materialkostnader utgjorde kr 2 000 000, og direkte variable lønnskostnader ble kr 1 500 000. Tilleggssatsene for de indirekte variable kostnadene var kr 5 per enhet og for de direkte og indirekte faste kostnadene henholdsvis kr 10 og kr 20 per enhet, og ble innkalkulert på basis av antall enheter solgt. Hva ble bedriftens totale dekningsbidrag i 2019?
+
+kr 4 300 000
+kr 100 000 
+kr 700 000
+kr 3 100 000
+Eksempelbedriften AS har som de fleste virksomheter en blanding av faste og variable kostnader. I 2018 produserte bedriften 49 000 enheter, og de totale kostnadene var kr 9 250 000. I 2019 ble det produsert 44 100 enheter, og de totale kostnadene var kr 8 500 000. Faste kostnader var uendret fra 2018 til 2019. Dette vil si at variabel enhetskostnad (avrundet til nærmeste krone) kan sies å være:
+
+kr 153
+kr 156
+kr 170
+kr 357
+En bedrift skal sette opp en bidragskalkyle for en ordre. Bedriften har organisert sin virksomhet i fire avdelinger: Materialavdelingen, tilvirkningsavdeling 1, tilvirkningsavdeling 2 og salgs- og administrasjonsavdelingen. De avdelingsvise tilleggssatsene for indirekte variable kostnader er: Materialavdelingen: 25 % av direkte materialkostnader, Tilvirkningsavdeling 1: 20 % av direkte lønnskostnader i avdelingen, Tilvirkningsavdeling 2: 25 % av direkte lønnskostnader i avdelingen, Salgs- og administrasjonsavdelingen: 8 % av variable tilvirkningskostnader. Til en bestemt ordre medgår direkte materialkostnader for kr 10 000, direkte lønnskostnader i tilvirkningsavdeling 1 for kr 6000 og direkte lønnskostnader i tilvirkningsavdeling 2 for kr 4000. Bedriften ønsker en dekningsgrad på 40 %. Hva blir kalkulert salgspris for ordren ekskl. mva.? 
+
+kr 44 460
+kr 26 676
+kr 24 700
+kr 43 357
+En større klesbutikk kjøpte for noen måneder siden inn 250 moteriktige gensere, à kr 900, til sammen kr 225 000. Forsterket av Corona-krisen har salget gått tregt, og det er fremdeles 200 stk. igjen på lager. Normal utsalgspris er kr 1500 (vi ser bort fra mva.). Butikkledelsen antar at den eneste måten de kan bli kvitt genserne på er om prisen settes ned med 80 % til kr 300 per enhet. Hva er ditt råd til butikkledelsen?
+
+Anbefale denne strategien, da alternativkostnaden er lik null, og det bedriftsøkonomiske resultatet derfor blir positivt med kr 60 000
+Fraråde denne strategien, da det vil gi et regnskapsmessig tap på kr 120 000
+Fraråde denne strategien, da det vil gi et regnskapsmessig tap på kr 150 000
+Anbefale denne strategien, da innkjøpsprisen alltid er sunk cost, og det aldri påløper nye kostnader til markedsføring eller lignende når prisen settes ned, og dermed vil selv en pris «nær null» alltid være lønnsom.
+En frisørbedrift har fire ansatte. Det er 30 år til de skal pensjoneres. De er alle sammen selvstendig næringsdrivende og har ingen obligatorisk pensjonssparing. De innser nå at det er på tide å gjøre noe med det. Fra pensjonsalder ønsker de hver å kunne ta ut kr 10 000 per måned i 10 år. Se bort fra skatt i denne oppgaven. Hvor mye må hver av dem spare hver måned om de skal kunne ta ut kr 10 000 per måned i 10 år? Anta at avkastningen er 4 % på årsbasis i spareperioden, og 1,5 % på årsbasis i utbetalingsperioden.
+
+1566kr
+1519kr
+1694kr (godtas også som riktig)
+694kr
+En bedrift kjøper varer for kr 250 000 inkl. mva. på kreditt. Hvilke regnskapsmessige virkninger har transaksjonen?
+Varekjøp blir omløpsmidler ved å være et varelager. Bedriftens verdi er eks. mva. Ved kjøp reduseres det vi skylder av mva., men inntil vi betaler, har vi en leverandørgjeld. Denne er kr 250 000, varelageret er verdt kr 250 000/1,25 = kr 200 000, og redusert mva.gjeld blir dermed kr 250 000 – kr 200 000 = kr 50 000.
+Omløpsmiddel øker med kr 200 000, leverandørgjeld øker med kr 250 000 og skyldig mva. (netto) blir redusert med kr 50 000.
+Omløpsmiddel øker med kr 250 000, leverandørgjeld øker med kr 250 000 og skyldig mva. (netto) blir redusert med kr 50 000.
+Omløpsmiddel øker med kr 187 500, leverandørgjeld øker med kr 250 000 og skyldig mva. (netto) blir redusert med kr 62 500.
+Anleggsmiddel øker med kr 250 000, leverandørgjeld øker med kr 250 000 og skyldig mva. (netto) blir redusert med kr 50 000.
+En bedrift har anleggsmiddel for kr 15 000 000, omløpsmidler for kr 10 000 000, langsiktig gjeld på kr 18 000 000, og kortsiktig gjeld på kr 3 000 000 . Arbeidskapitalen er kr 7 000 000, kundefordringer er kr 1 000 000 og bankinnskuddet er kr 5 000 000. Hva er beløpet for egenkapitalen til bedriften?
+EK = AM + OM – LG – KG  EK = kr 15 000 000 + kr 10 000 000 – kr 18 000 000 – kr 3 000 000 = kr 4 000 000. Opplysningene om arbeidskapital, kundefordringer og bankinnskudd er bare støy i oppgaven.
+kr 4 000 000
+kr 5 000 000
+kr 7 000 000
+kr 8 000 000
+Et driftsmiddel har en anskaffelsesverdi på kr 210 000. Antatt utrangeringsverdi etter fire år er kr 50 000. Anskaffelsen skjedde 1. januar. Saldoavskrivningene det andre året blir om satsen er 30 %: 
+Etter år 1 er saldo 210 000 - 0.3*210 000 = 147 000. Avskrivinger år 2 blir da 0,3*147 000 = 44 100kr. 
+kr 44 100
+kr 33 600
+kr 48 000
+kr 63 000
+En merverdiavgiftspliktig bedrift kostnadsførte for 2021 diverse driftskostnader for kr 12 000 000 . Ved årets begynnelse var det forskuddsbetalt kostnader til leverandørene med kr 500 000, som ved årets slutt var økt til kr 800 000 . Bedriften hadde også ved årets begynnelse skyldige kostnader (leverandørgjeld) for kr 1 000 000, som ved årets slutt var kr 900 000 . Hvor mye ble i løpet av 2021 totalt utbetalt til leverandørene til bedriften?
+Utbetalt til leverandører = kostnadsført inkl. mva. – IB forskuddsbetalt + UB forskuddsbetalt + IB skyldige kostnader – UB skyldige kostnader\nUtbetalt til leverandører = kr 12 000 000 × 1,25 – kr 500 000 + kr 800 000 + kr 1 000 000 – kr 900 000 = kr 15 400 000
+kr 15 400 000
+kr 12 400 000
+kr 14 800 000
+kr 15 200 000
+En bedrift beregner sine variable enhetskostnader til kr 200. Bedriften ønsker en dekningsgrad på 50%. Beregnet utsalgspris blir:
+Pris eks. mva. = VEK/(1-DG)  kr 200/(1 - 0,50) = kr 400  Pris inkl. mva. = Pris eks. mva. × (1 + mva.sats)  kr 400 × 1,25 =kr 500
+kr 400 eks. mva., og kr 500 inkl. mva.
+kr 320 eks. mva., og kr 400 inkl. mva.
+kr 500 eks. mva., og kr 400 inkl. mva.
+kr 400 eks. mva., og kr 320 inkl. mva.
+Byggmester B fakturerte 935 arbeidstimer i september. I løpet av høstsesongen, dvs. for hver av månedene september, oktober og november, fakturerer han vanligvis 900 timer per måned. Byggmester B budsjetterte med kr 72 000 indirekte kostnader i september og bruker divisjonskalkulasjon med normal aktivitet for å fordele dem. Tilleggssatsen for indirekte kostnader per time bør være:
+Ved divisjonskalkulasjon fordeles kostnadene på den totale produksjonen. Spørsmålet er hvilket aktivitetsmål som skal benyttes. Her er det angitt «normal aktivitet». Teksten indikerer at dette er 900 timer per måned, og tilleggssatsen blir kr 72 000/900 timer = kr 80 per time.
+kr 80
+kr 77
+kr 85
+kr 90
+En bedrift har kostnader på kr 2 000 000 i HR-avdelingen og kr 6 000 000 i IT-avdelingen. Disse kostnadene blir videre fordelt til hovedavdelingene i bedriften. Tjenester mellom de to avdelingene blir ikke fordelt. Bedriften bruker sine tre markedsavdelinger i Norge, Europa og USA som hovedavdelinger. IT-avdelingen jobber like mange timer for alle de tre hovedavdelingene. HR-avdelingens arbeider er jevnt fordelt på alle medarbeiderne i de tre hovedavdelingene. Norge har 20 ansatte, mens både Europa og USA har 10 ansatte hver. Kostnadsfordelingen etter den direkte metoden bevirker at:
+IT-avdelingen fordeles med 1/3 per avdeling: kr 6 000 000/3 = kr 2 000 000 per avdeling. HR-avdelingen fordeles basert på antall ansatte: Norge: kr 2 000 000 × 20 medarbeidere/40 medarbeidere = kr 1 000 000. Dette gir til sammen kr 3 000 000 for Norge. USA og Europa tildeles begge kr 2 000 000 × 10 medarbeidere/40 medarbeidere = kr 500 000. Dvs. til sammen kr 2 500 000 for hver avdeling.
+Norge bør bli allokert (får fordelt) kr 3 000 000, Europa kr 2 500 000 og USA kr 2 500 000.
+Norge bør bli allokert (får fordelt) kr 4 000 000, Europa kr 2 000 000 og USA kr 2 000 000.
+Norge bør bli allokert (får fordelt) kr 2 000 000, Europa kr 2 000 000 og USA kr 2 000 000.
+Norge bør bli allokert (får fordelt) kr 1 000 000, Europa kr 500 000 og USA kr 500 000.
+Det finnes hverken substitutt eller konkurrenter for et gitt produkt. Pris-/etterspørsel-funksjonen for produktet er gitt ved p = 7 000 – 0,4x. Totale kostnader for produksjonen av produktet er gitt ved TK = 7 000 000 + 3 200x, hvor p står for pris per enhet, x for etterspurt antall av produktet (i perioden) og TK for totale kostnader i kroner. Hva blir vinningsoptimalt antall og den tilhørende prisen for produktet?
+
+Vinningsoptimalt antall blir 4750 enheter, og den tilhørende prisen blir kr 5 100
+Vinningsoptimalt antall blir 8750 enheter, og den tilhørende prisen blir kr 3 200
+Vinningsoptimalt antall blir 17500 enheter, og den tilhørende prisen blir kr 3 500
+Vinningsoptimalt antall blir 4750 enheter, og den tilhørende prisen blir kr 3 200
+Det finnes hverken substitutt eller konkurrenter for et gitt produkt. Pris-/etterspørsel-funksjonen for produktet er gitt ved p = 4 000 – 0,2x. Totale kostnader for produksjonen av produktet er gitt ved TK = 1 000 000 + 1 600x, hvor p står for pris per enhet, x for etterspurt antall av produktet (i perioden) og TK for totale kostnader i kroner. Hvordan ville du karakterisere priselastisiteten dersom prisen blir redusert med kr 28 fra optimal tilpasning?
+
+Elastisitetskoeffisienten bli ca. -2,3, og dermed er etterspørselen elastisk ved prisendringer.
+Elastisitetskoeffisienten blir ca. -0,43, dermed er etterspørselen uelastisk ved prisendringer.
+Elastisitetskoeffisienten blir ca. -1, dermed er etterspørselen nøytralelastisk ved prisendringer.
+Elastisitetskoeffisienten blir ca. +1, dermed er etterspørselen nøytralelastisk ved prisendringer.
+En bedrift har ledig maskinkapasitet til å akseptere bare én av tre ulike spesialordrer. Alle ordrene forbruker like mange maskintimer. Ordre A gir bedriften kr 500 000 i resultat, ordre B gir kr 750 000, og ordre C gir kr 1 000 000. Bedriftens beslutningsrelevante kostnader ved ikke å akseptere ordre C er:
+Om man velger ordre A og B, så velger man bort ordre C. Ordre A innebærer isolert å gi avkall på (kr 1 000 000 – kr 500 000 = kr 500 000, mens ordre B innebærer isolert å gi avkall på kr (1 000 000 – kr 750 000) = kr 250 000.
+kr 500 000 for ordre A, og kr 250 000 for ordre B.
+kr 1 000 000 både for ordre A og B.
+kr 250 000 for ordre B, og kr 1 000 000 for ordre A.
+kr 1 000 000 for ordre B, og kr 500 000 for ordre A.
+Isobidragslinjen er for en bedrift med to produkt som begge har positive dekningsbidrag:
+Se lærebok
+En fallende linje som viser mulige produktkombinasjoner for et gitt nivå av samlet dekningsbidrag; stigningstallet til linjen er (den negative) kvotienten av dekningsbidraget av produktene.
+En stigende linje som viser mulige produktkombinasjoner for et gitt nivå av samlet dekningsbidrag; stigningstallet til linjen er det matematiske produktet av dekningsbidraget av produktene.
+En fallende linje som viser mulige produktkombinasjoner for et gitt nivå av samlet dekningsbidrag; stigningstallet til linjen er det matematiske produktet av dekningsbidraget av produktene.
+En stigende linje som viser mulige produktkombinasjoner for et gitt nivå av samlet dekningsbidrag; stigningstallet til linjen er summen av dekningsbidraget av produktene.
+Hvilken påstand er mest korrekt?
+Se lærebok
+I et marked med fullkommen konkurranse vil prisen være den samme uansett antall.
+Det vinningsoptimale antallet finner vi i skjæringspunktet mellom marginalinntekter og marginalkostnader. Her finner vi maksimal produksjon som alltid gir maksimalt resultat.
+Det vinningsoptimale antallet finner vi i skjæringspunktet mellom marginalinntekter og marginalkostnader. Her finner vi minste totale enhetskostnader som alltid gir maksimalt resultat.
+Det vinningsoptimale antallet finner vi i skjæringspunktet mellom marginalinntekter og marginalkostnader. I en monopolsituasjon vil prisen være lik marginalinntekten siden prisen blir sett av den ene produsenten i markedet.
+
+
+48 000 000kr
+37 200 000kr
+42 000 000kr
+57 600 000kr
+
+
+9 600 000kr
+48 000 000kr
+2 000 000kr
+7 600 000kr
+Du kjøper en TV som koster kr 25 000 . Istedenfor å betale kontant kan du betale etter tre måneder, men da må du også betale et gebyr på kr 700 om tre måneder. Hva blir effektiv rente per år for denne kreditten?
+
+11,7 %
+2,8 %
+8,4 %
+11,2 %
+Du har brukt 12 % som avkastningskrav og beregnet netto nåverdi for et 8-årig prosjekt til -kr 1 380 000 (merk at beløpet er negativt). I denne utregningen er utrangeringsverdien av produksjonsutstyret (etter 8 år) satt til kr 0 . Hvor høy må denne utrangeringsverdien minst være for at prosjektet skal bli lønnsomt, dvs. for at netto nåverdi skal bli minst 0?
+For at nåverdien skal bli null, må nåverdien øke med (minst) kr 1 380 000. Et beløp som vi mottar etter 8 år vil da måtte ha en verdi på kr 1 380 000 × 1,128 = kr 3 416 829
+kr 3 416 829
+kr 172 500
+kr 557 359
+kr 2 187 369
+Et prosjekt har følgende kontantstrømmer i mill. kr: (–85, 25, 30, 20, 20, 15, 10). Om vi antar at kontantstrømmene fordeler seg jevnt over året, er tilbakebetalingstiden for prosjektet:
+Etter tre år gjenstår det 85 – 25 – 30 – 20 = 10. Innbetalingsoverskuddet det fjerde året er 20, og prosjektet vil midtveis i det fjerde året være tilbakebetalt (10/20 = ½ år). Merk for øvrig at tilbakebetalingsmetoden i det siste året plutselig hopper bukk over at kontantstrømmene antas å komme ved årets slutt. 
+3,5 år
+3,0 år
+4,0 år
+6,0 år
+Et prosjekt har følgende kontantstrømmer i mill. kr: (–85, 25, 30, 20, 20, 15, 10). Prosjektets netto nåverdi er med avkastningskrav 9 %:
+NNV = -85 + 25/1,091 + 30/1,092 + 20/1,093 + 20/1,094 + 15/1,095 + 10/1,096 = 8,51 mill. kroner.
+8,51 mill. kroner
+35,00 mill. kroner
+71,83 mill. kroner
+93,51 mill. kroner
+
+
+B – C – G
+A – B – C – G
+A – D – E
+A – B – C – F
+Nord-Norge banen er beregnet å koste 100 milliarder kroner. Det er lagt til grunn at 1289 passasjerer vil ta toget hvor eneste dag. Staten opererer med 4,5 % krav til avkastning på jernbaneinvesteringer, og prosjektene skal være lønnsomme sett i et 25-årsperspektiv. Dersom vi ser utelukkende på det investerte beløpet, hvor mye må hver billett i gjennomsnitt koste? Utelukk merverdiavgift.
+Årlige kapitalkostnader (renter og avskrivninger): kr 100 000 000 000 × A-125 år, 4,5 % = kr 100 000 000 000 × 0,0674 = kr 6 743 902 804.\nAntall passasjerer per år: 1289 × 365 dager = 470 485\nKapitalkostnad per passasjer (billett): kr 6 743 902 804/470 485 passasjerer  kr 14 334 per passasjer.
+14334kr
+17534kr
+2253kr
+8463kr
+Gå ut i fra en obligasjon som  blir omsatt i et fritt marked, med innløsning om 10 år og med fast kupongrente på 2% i slutten av hver år. Renten i markedet er 2,5%. Pålydende verdi er 100. Dersom markedsrenten stiger til 3% umiddelbart vil:
+
+Kursen på obligasjonen falle med 4,15
+Kursen på obligasjonen vil stige til 96,62
+Kursen på obligasjonen vil falle med 6,53
+Kursen på obligasjon vil være lik pålydende
+Anta at valutakursen EUR/NOK er 10 i dag. 1 års renten i NOK er 2%, 1 års renten i EUR er 0,5%. Hvilken påstand er riktig?
+
+Terminkursen EUR/NOK er 10,15 ifølge dekket renteparitet
+Forventet spotkurs EUR/NOK er 10,05 ifølge udekket renteparitet
+Terminkursen på EUR/NOK er 10,20 ifølge dekket renteparitet
+Terminkursen på EUR/NOK er 9,85 ifølge dekket renteparitet
+Ifølge kjøpekraftparitetsteorien vil en høyere inflasjon i Norge enn i utlandet gjøre at en forventer at NOK (ved et flytende valutakursregime):
+Se lærebok
+Blir depresiert
+Forblir uendret
+Blir appresiert
+Blir revaluert
+
+
+Y=3000
+Y=2800
+Y=3050
+Y=2950 
+
+
+i=4%, E=80
+i=6%, E=81,54
+i=3%, E=79
+i=5%, E=81
+
+
+a)	Y=3000
+b)	Y=2850
+c)	Y=2950
+d)	Y=2750 
+Dersom innenlandsk etterspørsel øker med 100 og nettoeksporten avtar med 50, vil etterspørselen rettet mot norske varer endre seg med:
+Se lærebok
+50
+0
+-50
+100
+
+
+Y(før)= 5000 Y(etter)=4803
+Y(før)= 5013 Y(etter)=4603
+Y(før)= 5000 Y(etter)=5000
+Y(før)= 4900 Y(etter)=5105
+
+
+89,68
+100
+99,65
+93,53
+
+
+4,63
+5
+4,95
+5,20
+
+Se lærebok Merk at komparativt fortrinn refererer seg til det enkelte land. For Land 1 lønner det seg å produsere A istenden for B. Hvorvidt de bør gjøre det er en annen sak. Hvis land 1 kan handle med land 2 uten hindringer, vil det være lønnsomt å importere både A og B fra land 2.
+Land 1 har komparativt fortrinn i produksjonen av A
+Land 2 har komparativt fortrinn i produksjonen av B
+Land 1 har komparativt fortrinn i produksjonen av både A og B.
+Land 2 har komparativ fortrinn av i produksjonen av både A og B
+
+Eksport-Import=Nettoeksport. Import=500-(-100)=600 
+600
+700
+400
+500
+
+CA=NX+F=-100+100=0
+0
+100
+200
+-100
+
+NNP=Cp+NIp+C0+NI0+NX. NIp=2000-1000-500-(-100)=600
+600
+100
+400
+500
+
+R=NNP+FR+TR=2000+0+100=2100
+2100
+1900
+2000
+2200
+
+S=R-C = 2100- (1000+500) = 600
+600
+500
+700
+Ingen av delene ovenfor
+Under ellers like vilkår vil en sammenligning av standard modell 1, standard modell 2 og IS/MP- modellen, av en økning i offentlig konsum føre til:
+Se lærebok
+likt utslag på BNP på IS/MP-modellen og standard modell 1
+størst utslag på BNP i standard modell 2
+minst utslag på BNP i modell 1
+likt utslag på BNP i standard modell 2 og modell 1 
+Under ellers like vilkår vil en sammenligning av standard modell 1, standard modell 2 og IS/MP- modellen, av en økning i offentlig konsum:
+Se lærebok
+Ha størst negativ utslag på eksporten i modell 2
+Ha størst positiv utslag på eksporten i standard modell 2
+Ha likt utslag på eksporten i alle 3 modellene
+Føre til at eksporten vil være uendret i standard modell 2
+Under ellers like vilkår vil en sammenligning av standard modell 1, standard modell 2 og IS/MP- modellen, av en økning i offentlig konsum:
+Se lærebok
+Ha likt utslag på importen  i standard modell 1 og IS/MP-modellen
+Ha størst positiv utslag på   importen i standard modell 2
+Ha minst positiv utslag på importen i modell 2
+Føre til at importen vil være uendret i IS/MP-modellen
+En like stor inflasjon i Norge og utlandet og et uventet og vedvarende fall i oljeprisen vil føre til at:
+Se lærebok
+Realvalutakursen stiger
+Realvalutakursen er uendret
+Realvalutakursen faller
+Innenlands rente faller
