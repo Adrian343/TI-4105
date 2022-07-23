@@ -1,6 +1,6 @@
 from AppKit import NSScreen
 import tkinter as tk
-from random import shuffle, randint
+from random import shuffle, choice
 import ScrollableFrame
 from os import path
 from time import sleep
@@ -44,7 +44,6 @@ class App(tk.Frame):
         self.getNextQuestion()
         
         self.root.bind_all("<MouseWheel>", self._on_mousewheel)
-
 
     def configureWindow(self):
         self.SCRWIDTH = NSScreen.mainScreen().frame().size.width
@@ -91,7 +90,12 @@ class App(tk.Frame):
                 self.scoreChange(self.currentQuestion, -1)
     
     def getNextQuestion(self):
-        self.currentQuestion = randint(0,len(self.questions)-1)+1
+        with open(path.join(path.dirname(__file__), 'scores.txt'), 'r') as file:
+            scores = file.readlines()
+        lowestScores = [i for i, v in enumerate(scores) if int(v) == (min([int(x.strip()) for x in scores]) + 1)]
+        if len(lowestScores) == 0:
+            lowestScores = [i for i, v in enumerate(scores) if int(v) == min([int(x.strip()) for x in scores])]
+        self.currentQuestion = choice(lowestScores)+1
         #TODO hva skal determinere hvilke spørsmål som blir valgt
         currQ = self.questions[self.currentQuestion-1]
         if currQ[0] == "":

@@ -6,7 +6,7 @@ installer packagene som kreves ved:
 
 bygg appen med 
 
-2. ```pyinstaller App.spec```
+2. ```pyinstaller App.spec --noconfirm```
 
 så kan appen kjøres. Den ligger under `/dist/App`
 
