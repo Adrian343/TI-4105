@@ -3,7 +3,6 @@ import tkinter as tk
 from random import shuffle, choice
 import ScrollableFrame
 from os import path
-from time import sleep
 
 class App(tk.Frame):
     def _on_mousewheel(self, event):
@@ -92,10 +91,9 @@ class App(tk.Frame):
     def getNextQuestion(self):
         with open(path.join(path.dirname(__file__), 'scores.txt'), 'r') as file:
             scores = file.readlines()
-        lowestScores = [i for i, v in enumerate(scores) if int(v) == (min([int(x.strip()) for x in scores]) + 1)]
-        if len(lowestScores) == 0:
-            lowestScores = [i for i, v in enumerate(scores) if int(v) == min([int(x.strip()) for x in scores])]
-        self.currentQuestion = choice(lowestScores)+1
+        lowestScores = [(i, v) for i, v in enumerate(scores)]
+        lowestScores.sort(key=lambda x: x[1])
+        self.currentQuestion = choice(lowestScores[:20])[0]
         #TODO hva skal determinere hvilke spørsmål som blir valgt
         currQ = self.questions[self.currentQuestion-1]
         if currQ[0] == "":
