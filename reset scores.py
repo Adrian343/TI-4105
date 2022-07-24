@@ -1,5 +1,5 @@
 with open("scores.txt", "w") as file:
-    string=""
+    string = ""
     for i in range(100):
         string += "0"
         if i < 99:
