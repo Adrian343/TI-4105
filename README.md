@@ -1,3 +1,5 @@
+enkelt program for å øve til TIØ4105 Industriell Økonomisk Styring eksamen med MC spørsmål. Fungerte bra for meg hvertfall. Bruk gjerne dataen som ligger under `resources` som dere selv ønsker
+
 antar at `python` og `pip` er installert. skriv det påfølgende inn i terminalen
 
 installer packagene som kreves ved:
