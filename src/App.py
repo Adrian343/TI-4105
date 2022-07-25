@@ -104,6 +104,7 @@ class App(tk.Frame):
         with open(path.join(path.dirname(__file__), 'scores.txt'), 'r') as file:
             scores = file.readlines()
         lowestScores = [(i, v) for i, v in enumerate(scores)]
+        shuffle(lowestScores)
         lowestScores.sort(key=lambda x: x[1])
         self.currentQuestion = choice(lowestScores[:35])[0]
         # TODO hva skal determinere hvilke spørsmål som blir valgt
