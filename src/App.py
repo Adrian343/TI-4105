@@ -105,7 +105,7 @@ class App(tk.Frame):
             scores = file.readlines()
         lowestScores = [(i, v) for i, v in enumerate(scores)]
         lowestScores.sort(key=lambda x: x[1])
-        self.currentQuestion = choice(lowestScores[:20])[0]
+        self.currentQuestion = choice(lowestScores[:35])[0]
         # TODO hva skal determinere hvilke spørsmål som blir valgt
         currQ = self.questions[self.currentQuestion-1]
         if currQ[0] == "":
