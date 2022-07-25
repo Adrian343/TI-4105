@@ -10,4 +10,5 @@ bygg appen med
 
 så kan appen kjøres. Den ligger under `/dist/App`
 
-kun testet på Mac, hvis noen ønsker å lage en PR hvis windows ikke støttes kan de gjerne gjøre
+kun testet på Mac, hvis noen ønsker å lage en PR for å sikre Windows-støtte kan de gjerne gjøre det. 
+merk at alle referanser til filer sannsynsligvis må endres for å ikke først bygges med `pyinstaller` for testing
