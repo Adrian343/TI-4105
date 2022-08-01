@@ -267,7 +267,7 @@ Se lærebok.
 Stige
 Være uendret
 Gå ned
-Umulig å svare på (Godtas også som riktig)
+Umulig å svare på (godtas også som riktig)
 Følgende er et eksempel på ekspansiv finanspolitikk
 Se lærebok.
 Økte offentlige overføringer
@@ -539,7 +539,7 @@ Y(før)= 4900 Y(etter)=5105
 4,95
 5,20
 
-Se lærebok Merk at komparativt fortrinn refererer seg til det enkelte land. For Land 1 lønner det seg å produsere A istenden for B. Hvorvidt de bør gjøre det er en annen sak. Hvis land 1 kan handle med land 2 uten hindringer, vil det være lønnsomt å importere både A og B fra land 2.
+Se lærebok. Merk at komparativt fortrinn refererer seg til det enkelte land. For Land 1 lønner det seg å produsere A istenden for B. Hvorvidt de bør gjøre det er en annen sak. Hvis land 1 kan handle med land 2 uten hindringer, vil det være lønnsomt å importere både A og B fra land 2.\n kommentar: dette spørsmålet ble strøket fra vurdering pga. dårlig formulering
 Land 1 har komparativt fortrinn i produksjonen av A
 Land 2 har komparativt fortrinn i produksjonen av B
 Land 1 har komparativt fortrinn i produksjonen av både A og B.

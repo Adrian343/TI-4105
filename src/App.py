@@ -91,7 +91,7 @@ class App(tk.Frame):
             else:
                 self.LF["image"] = ""
                 self.LF["text"] = "" + self.LFContent
-            if button["text"] == self.correctAnswer:
+            if button["text"] == self.correctAnswer or button["text"][-24:] == "(godtas også som riktig)":
                 self.scoreChange(self.currentQuestion, 1)
                 button["foreground"] = "GREEN"
             else:
