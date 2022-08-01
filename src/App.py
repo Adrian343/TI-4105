@@ -103,7 +103,7 @@ class App(tk.Frame):
     def getNextQuestion(self):
         with open(path.join(path.dirname(__file__), 'scores.txt'), 'r') as file:
             scores = file.readlines()
-        lowestScores = [(i, v) for i, v in enumerate(scores)]
+        lowestScores = [(i+1, int(v.strip())) for i, v in enumerate(scores)]
         shuffle(lowestScores)
         lowestScores.sort(key=lambda x: x[1])
         self.currentQuestion = choice(lowestScores[:35])[0]
@@ -126,7 +126,7 @@ class App(tk.Frame):
         self.btnc["text"] = self.Qs[2]
         self.btnd["text"] = self.Qs[3]
         # kreativt eksempel av pythons logikk under:)
-        spmPrefix = f"Spørsmål nr. {self.currentQuestion - (60*(self.currentQuestion>60))} eksamen 202{int(self.currentQuestion>60)}\n"
+        spmPrefix = f"Spørsmål nr. {self.currentQuestion - (60*(self.currentQuestion>60))} eksamen 202{int(self.currentQuestion>60)+1}\n"
         self.spmPrefix["text"] = spmPrefix
 
     def scoreChange(self, qNo, change):
