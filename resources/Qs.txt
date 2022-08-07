@@ -159,7 +159,7 @@ Se lærebok.
 BNP faller minst 2 kvartaler etter hverandre 
 langvarig periode med uendret BNP
 BNP faller mer enn 4 kvartaler etter hverandre 
-ingen av alternativene ovenfor
+ingen av de andre alternativene
 Med den strukturelle budsjettbalansen menes: 
 Se lærebok.
 Verdien på budsjettbalansen når Y=Ypot 
@@ -213,7 +213,7 @@ Se lærebok.
 går opp 
 går  ned 
 blir negativ
-ingen av alternativene ovenfor
+ingen av de andre alternativene
 Keynesiansk arbeidsledighet er det samme som: 
 Se lærebok.
 Konjukturledighet
@@ -275,7 +275,7 @@ Se lærebok.
 Økte skatter
 Nedsettelse av renta
 Disponibel inntekt er lik:
-Se lærebok.
+Se lærebok.\nkommentar: litt usikker på om dette spørsmålet er riktig, tror kanskje det skulle vært *ikke et eksempel og økte skatter som er riktig
 NNP pluss rente- og stønadsbalansen ovenfor utlandet
 BNP
 NNP pluss formuesinntekt
@@ -510,10 +510,10 @@ i=3%, E=79
 i=5%, E=81
 
 
-a)	Y=3000
-b)	Y=2850
-c)	Y=2950
-d)	Y=2750 
+Y=3000
+Y=2850
+Y=2950
+Y=2750 
 Dersom innenlandsk etterspørsel øker med 100 og nettoeksporten avtar med 50, vil etterspørselen rettet mot norske varer endre seg med:
 Se lærebok
 50
@@ -541,9 +541,9 @@ Y(før)= 4900 Y(etter)=5105
 
 Se lærebok. Merk at komparativt fortrinn refererer seg til det enkelte land. For Land 1 lønner det seg å produsere A istenden for B. Hvorvidt de bør gjøre det er en annen sak. Hvis land 1 kan handle med land 2 uten hindringer, vil det være lønnsomt å importere både A og B fra land 2.\n kommentar: dette spørsmålet ble strøket fra vurdering pga. dårlig formulering
 Land 1 har komparativt fortrinn i produksjonen av A
-Land 2 har komparativt fortrinn i produksjonen av B
-Land 1 har komparativt fortrinn i produksjonen av både A og B.
-Land 2 har komparativ fortrinn av i produksjonen av både A og B
+Land 2 har komparativt fortrinn i produksjonen av B (godtas også som riktig)
+Land 1 har komparativt fortrinn i produksjonen av både A og B. (godtas også som riktig)
+Land 2 har komparativ fortrinn av i produksjonen av både A og B (godtas også som riktig)
 
 Eksport-Import=Nettoeksport. Import=500-(-100)=600 
 600
@@ -573,7 +573,7 @@ S=R-C = 2100- (1000+500) = 600
 600
 500
 700
-Ingen av delene ovenfor
+Ingen av de andre alternativene
 Under ellers like vilkår vil en sammenligning av standard modell 1, standard modell 2 og IS/MP- modellen, av en økning i offentlig konsum føre til:
 Se lærebok
 likt utslag på BNP på IS/MP-modellen og standard modell 1
