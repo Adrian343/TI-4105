@@ -4,7 +4,7 @@ antar at `python` og `pip` er installert
 
 installer packagene som kreves ved:
 
-1. ```pip install requirements.txt```
+1. ```pip install -r requirements.txt```
 
 bygg appen med 
 
